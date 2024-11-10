@@ -98,6 +98,18 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AbonarCobrar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AbonarCobrar.Designer.cs">
+      <DependentUpon>AbonarCobrar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AbonarPagar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AbonarPagar.Designer.cs">
+      <DependentUpon>AbonarPagar.cs</DependentUpon>
+    </Compile>
     <Compile Include="Clientes.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -172,6 +184,12 @@
     <Compile Include="Ventas.Designer.cs">
       <DependentUpon>Ventas.cs</DependentUpon>
     </Compile>
+    <EmbeddedResource Include="AbonarCobrar.resx">
+      <DependentUpon>AbonarCobrar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AbonarPagar.resx">
+      <DependentUpon>AbonarPagar.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Clientes.resx">
       <DependentUpon>Clientes.cs</DependentUpon>
     </EmbeddedResource>

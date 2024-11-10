@@ -50,3 +50,5 @@ C:\Users\Greison Martinez\Desktop\Cliente-Suplementos\WOLFSFITNESSMARKET\obj\Deb
 C:\Users\Greison Martinez\Desktop\Cliente-Suplementos\WOLFSFITNESSMARKET\obj\Debug\WOLFSFITNESSMARKET.Proveedores.resources
 C:\Users\Greison Martinez\Desktop\Cliente-Suplementos\WOLFSFITNESSMARKET\obj\Debug\WOLFSFITNESSMARKET.Usuarios.resources
 C:\Users\Greison Martinez\Desktop\Cliente-Suplementos\WOLFSFITNESSMARKET\obj\Debug\WOLFSFITNESSMARKET.Ventas.resources
+C:\Users\Greison Martinez\Desktop\Cliente-Suplementos\WOLFSFITNESSMARKET\obj\Debug\WOLFSFITNESSMARKET.AbonarPagar.resources
+C:\Users\Greison Martinez\Desktop\Cliente-Suplementos\WOLFSFITNESSMARKET\obj\Debug\WOLFSFITNESSMARKET.AbonarCobrar.resources

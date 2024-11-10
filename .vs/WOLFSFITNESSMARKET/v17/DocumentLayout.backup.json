@@ -3,24 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Greison Martinez\\Desktop\\Cliente-Suplementos\\WOLFSFITNESSMARKET\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EB27CE21-65C8-49E5-B427-6BBD8044AEB2}|WOLFSFITNESSMARKET.csproj|c:\\users\\greison martinez\\desktop\\cliente-suplementos\\wolfsfitnessmarket\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{EB27CE21-65C8-49E5-B427-6BBD8044AEB2}|WOLFSFITNESSMARKET.csproj|solutionrelative:menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EB27CE21-65C8-49E5-B427-6BBD8044AEB2}|WOLFSFITNESSMARKET.csproj|C:\\Users\\Greison Martinez\\Desktop\\Cliente-Suplementos\\WOLFSFITNESSMARKET\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EB27CE21-65C8-49E5-B427-6BBD8044AEB2}|WOLFSFITNESSMARKET.csproj|solutionrelative:menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EB27CE21-65C8-49E5-B427-6BBD8044AEB2}|WOLFSFITNESSMARKET.csproj|C:\\Users\\Greison Martinez\\Desktop\\Cliente-Suplementos\\WOLFSFITNESSMARKET\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EB27CE21-65C8-49E5-B427-6BBD8044AEB2}|WOLFSFITNESSMARKET.csproj|c:\\users\\greison martinez\\desktop\\cliente-suplementos\\wolfsfitnessmarket\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EB27CE21-65C8-49E5-B427-6BBD8044AEB2}|WOLFSFITNESSMARKET.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EB27CE21-65C8-49E5-B427-6BBD8044AEB2}|WOLFSFITNESSMARKET.csproj|c:\\users\\greison martinez\\desktop\\cliente-suplementos\\wolfsfitnessmarket\\menu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EB27CE21-65C8-49E5-B427-6BBD8044AEB2}|WOLFSFITNESSMARKET.csproj|solutionrelative:menu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EB27CE21-65C8-49E5-B427-6BBD8044AEB2}|WOLFSFITNESSMARKET.csproj|c:\\users\\greison martinez\\desktop\\cliente-suplementos\\wolfsfitnessmarket\\abonarcobrar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EB27CE21-65C8-49E5-B427-6BBD8044AEB2}|WOLFSFITNESSMARKET.csproj|solutionrelative:abonarcobrar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EB27CE21-65C8-49E5-B427-6BBD8044AEB2}|WOLFSFITNESSMARKET.csproj|c:\\users\\greison martinez\\desktop\\cliente-suplementos\\wolfsfitnessmarket\\compras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{EB27CE21-65C8-49E5-B427-6BBD8044AEB2}|WOLFSFITNESSMARKET.csproj|solutionrelative:compras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{EB27CE21-65C8-49E5-B427-6BBD8044AEB2}|WOLFSFITNESSMARKET.csproj|c:\\users\\greison martinez\\desktop\\cliente-suplementos\\wolfsfitnessmarket\\abonarcobrar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB27CE21-65C8-49E5-B427-6BBD8044AEB2}|WOLFSFITNESSMARKET.csproj|solutionrelative:abonarcobrar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB27CE21-65C8-49E5-B427-6BBD8044AEB2}|WOLFSFITNESSMARKET.csproj|c:\\users\\greison martinez\\desktop\\cliente-suplementos\\wolfsfitnessmarket\\abonarpagar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EB27CE21-65C8-49E5-B427-6BBD8044AEB2}|WOLFSFITNESSMARKET.csproj|solutionrelative:abonarpagar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,73 +26,56 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Compras.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Greison Martinez\\Desktop\\Cliente-Suplementos\\WOLFSFITNESSMARKET\\Compras.cs",
-              "RelativeDocumentMoniker": "Compras.cs",
-              "ToolTip": "C:\\Users\\Greison Martinez\\Desktop\\Cliente-Suplementos\\WOLFSFITNESSMARKET\\Compras.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Compras.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-04T17:46:22.959Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Menu.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\Greison Martinez\\Desktop\\Cliente-Suplementos\\WOLFSFITNESSMARKET\\Menu.Designer.cs",
-              "RelativeDocumentMoniker": "Menu.Designer.cs",
-              "ToolTip": "C:\\Users\\Greison Martinez\\Desktop\\Cliente-Suplementos\\WOLFSFITNESSMARKET\\Menu.Designer.cs",
-              "RelativeToolTip": "Menu.Designer.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-04T17:39:35.872Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Greison Martinez\\Desktop\\Cliente-Suplementos\\WOLFSFITNESSMARKET\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Greison Martinez\\Desktop\\Cliente-Suplementos\\WOLFSFITNESSMARKET\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAkAAAAAAAAAA==",
+              "Title": "AbonarCobrar.cs",
+              "DocumentMoniker": "C:\\Users\\Greison Martinez\\Desktop\\Cliente-Suplementos\\WOLFSFITNESSMARKET\\AbonarCobrar.cs",
+              "RelativeDocumentMoniker": "AbonarCobrar.cs",
+              "ToolTip": "C:\\Users\\Greison Martinez\\Desktop\\Cliente-Suplementos\\WOLFSFITNESSMARKET\\AbonarCobrar.cs*",
+              "RelativeToolTip": "AbonarCobrar.cs*",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAlwAwAAABGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-04T17:26:06.502Z",
+              "WhenOpened": "2024-11-10T02:47:41.237Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Menu.cs",
-              "DocumentMoniker": "C:\\Users\\Greison Martinez\\Desktop\\Cliente-Suplementos\\WOLFSFITNESSMARKET\\Menu.cs",
-              "RelativeDocumentMoniker": "Menu.cs",
-              "ToolTip": "C:\\Users\\Greison Martinez\\Desktop\\Cliente-Suplementos\\WOLFSFITNESSMARKET\\Menu.cs",
-              "RelativeToolTip": "Menu.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAvwBUAAAAAAAAAAAAAAA==",
+              "Title": "AbonarCobrar.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Greison Martinez\\Desktop\\Cliente-Suplementos\\WOLFSFITNESSMARKET\\AbonarCobrar.cs",
+              "RelativeDocumentMoniker": "AbonarCobrar.cs",
+              "ToolTip": "C:\\Users\\Greison Martinez\\Desktop\\Cliente-Suplementos\\WOLFSFITNESSMARKET\\AbonarCobrar.cs [Dise\u00F1o]*",
+              "RelativeToolTip": "AbonarCobrar.cs [Dise\u00F1o]*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-04T17:25:49.407Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-10T02:47:33.599Z",
+              "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Menu.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Greison Martinez\\Desktop\\Cliente-Suplementos\\WOLFSFITNESSMARKET\\Menu.cs",
-              "RelativeDocumentMoniker": "Menu.cs",
-              "ToolTip": "C:\\Users\\Greison Martinez\\Desktop\\Cliente-Suplementos\\WOLFSFITNESSMARKET\\Menu.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Menu.cs [Dise\u00F1o]",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Greison Martinez\\Desktop\\Cliente-Suplementos\\WOLFSFITNESSMARKET\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Greison Martinez\\Desktop\\Cliente-Suplementos\\WOLFSFITNESSMARKET\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAAAgAAAAAAGB4+RAowBIAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-04T17:25:38.639Z",
+              "WhenOpened": "2024-11-10T02:44:27.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AbonarPagar.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Greison Martinez\\Desktop\\Cliente-Suplementos\\WOLFSFITNESSMARKET\\AbonarPagar.cs",
+              "RelativeDocumentMoniker": "AbonarPagar.cs",
+              "ToolTip": "C:\\Users\\Greison Martinez\\Desktop\\Cliente-Suplementos\\WOLFSFITNESSMARKET\\AbonarPagar.cs [Dise\u00F1o]",
+              "RelativeToolTip": "AbonarPagar.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T02:44:19.823Z",
               "EditorCaption": " [Dise\u00F1o]"
             }
           ]
